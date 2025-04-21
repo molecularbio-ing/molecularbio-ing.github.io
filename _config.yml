@@ -16,7 +16,7 @@
 title: "My Molecular Biology Blog/ Moleküler Biyoloji Blogum"
 description: "A place to share knowledge on molecular biology and genetics"
 twitter_username: username
-github_username: username
+github_username: "molecularbio-ing"
 minimal_mistakes_skin: default
 search: true
 
@@ -54,9 +54,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "sub-gene"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a Molecular Biology and Genetic student who wants to collect and share the processes on this journey."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,7 +69,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/bug_in_"
 
 footer:
   links:
