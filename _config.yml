@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:"My Molecular Biology Blog/ Moleküler Biyoloji Blogum"
-description: "A place to share knowledge on molecular biology and genetics/Moleküler Biyoloji ve Genetik üzerine bilgileri paylaşmak için bir alan"
+description: "A place to share knowledge on molecular biology and genetics"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
