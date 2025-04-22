@@ -114,3 +114,19 @@ header:
   overlay_image: /assets/images/cyberpunk-header.jpg
   overlay_filter: "0.4"
   caption: "Welcome to my synthetic universe"
+  # Sayfa başlığı ve açıklama
+title: "Cyberpunk GitHub Sayfam"
+description: "Cyberpunk temalı kişisel GitHub sayfam"
+
+# Sayfa dili
+language: "en"
+
+# Tema ayarları
+theme: jekyll-theme-cayman  # Burada kullandığınız temayı yazın, ya da custom tema kullanabilirsiniz.
+
+# Özelleştirilmiş stil dosyası (CSS) ekleme
+# Sayfa için kendi CSS dosyanızı buraya bağlıyoruz
+# CSS dosyasının yolu, dosyanın bulunduğu dizine göre yazılmalıdır.
+extra:
+  stylesheet: "/styles.css"  # "styles.css" dosyanızın bulunduğu konum
+
