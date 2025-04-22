@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "sub-gene"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pp"
   bio    : "I am a Molecular Biology and Genetic student who wants to collect and share the processes on this journey."
   links:
     - label: "Website"
