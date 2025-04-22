@@ -17,7 +17,17 @@ title: "My Molecular Biology Blog/ Moleküler Biyoloji Blogum"
 description: "A place to share knowledge on molecular biology and genetics"
 twitter_username: username
 github_username: "molecularbio-ing"
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      css: "custom"
 search: true
 
 # Build settings
@@ -115,8 +125,8 @@ header:
   overlay_filter: "0.4"
   caption: "Welcome to my synthetic universe"
   # Sayfa başlığı ve açıklama
-title: "Cyberpunk GitHub Sayfam"
-description: "Cyberpunk temalı kişisel GitHub sayfam"
+title: "My Molecular Biology and Genetic Blog/ Moleküler Biyoloji ve Genetik Blogum"
+description: " Kişisel GitHub sayfam"
 
 # Sayfa dili
 language: "en"
