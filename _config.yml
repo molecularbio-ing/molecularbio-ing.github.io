@@ -90,6 +90,7 @@ defaults:
       type: posts
     values:
       layout: single
+      css: custom
       author_profile: true
       read_time: true
       comments: true
@@ -109,3 +110,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+header:
+  overlay_image: /assets/images/cyberpunk-header.jpg
+  overlay_filter: "0.4"
+  caption: "Welcome to my synthetic universe"
