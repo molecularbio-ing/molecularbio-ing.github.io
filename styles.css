@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+/* Google Fonts üzerinden eklediğimiz font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/* Genel sayfa stili */
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #121212;  /* Koyu arka plan */
+    color: #E5E5E5;  /* Yazı rengi */
+    margin: 0;
+    padding: 0;
+}
+
+/* Başlıklar */
+h1, h2, h3 {
+    color: #00ff99;  /* Neon yeşil */
+    text-shadow: 0 0 5px #00ff99, 0 0 10px #00ff99, 0 0 15px #00ff99; /* Neon etkisi */
+}
+
+/* Bağlantılar */
+a {
+    color: #ff00ff;  /* Neon mor */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #00ffff;  /* Neon mavi */
+}
+
+/* Paragraflar */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #E5E5E5;
+}
+<link rel="stylesheet" type="text/css" href="styles.css">
