@@ -24,10 +24,11 @@ sass:
 defaults:
   - scope:
       path: ""
-      type: "posts"
     values:
-      layout: single
+    layout: single
+      author_profile: true
       css: "custom"
+
 search: true
 
 # Build settings
